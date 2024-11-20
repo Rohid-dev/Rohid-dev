@@ -8,9 +8,9 @@
 - ⚡ Fun fact: I sleep Naked 😄
 #### Hi there, thanks for stopping by, this is Miss Rose.
 
-<div style="display: flex; align-items: flex-start;">
+<div style="display: flex; align-items: flex-start; flex-wrap: nowrap;">
 
-  <div style="flex: 1; margin-right: 20px;">
+  <div style="flex: 1; margin-right: 10px;">
     <pre style="background-color: #f6f8fa; padding: 10px; border-radius: 5px;">
 const missrose = {
     pronouns: "She" | "Her",
