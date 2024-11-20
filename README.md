@@ -4,13 +4,8 @@
 - 🌱 I’m currently learning Interoperability Protocols...
 - 💞️ I’m looking to collaborate on Any Open Source Project...
 - 📫 How to reach me on [Telegram](https://t.me/RoHidwad)
-
-## Features <a id='ssFeatures'></a>
-
-- 📫 How to reach me: ...
 - ⚡ Fun fact: I sleep Naked 😄
 #### Hi there, thanks for stopping by, this is Miss Rose.
-
 ```
     const missrose = {
     pronouns: "She" | "Her",
