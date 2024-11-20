@@ -3,7 +3,7 @@
 - 👀 I’m interested in Web3 Technology.
 - 🌱 I’m currently learning Interoperability Protocols...
 - 💞️ I’m looking to collaborate on Any Open Source Project...
-- 📫 How to reach me on TelegramSection `Features`](#feature) https://t.me/RoHidwad in [Section 'Features'](#ssFeatures) 
+- 📫 How to reach me on [Telegram](https://t.me/RoHidwad)
 
 ## Features <a id='ssFeatures'></a>
 
