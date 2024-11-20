@@ -28,7 +28,7 @@ const missrose = {
   </div>
 
   <div>
-    <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Image Description" width="50">
+    <img align="right" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   </div>
 
 </div>
