@@ -8,9 +8,10 @@
 - ⚡ Fun fact: I sleep Naked 😄
 #### Hi there, thanks for stopping by, this is Miss Rose.
 
-<div style="display: flex; align-items: center;">
-<div style="width:100;">
-  <pre>
+<div style="display: flex; align-items: flex-start;">
+
+  <div style="flex: 1; margin-right: 20px;">
+    <pre style="background-color: #f6f8fa; padding: 10px; border-radius: 5px;">
 const missrose = {
     pronouns: "She" | "Her",
     askMeAbout: ["web dev", "tech", "crypto", "sport"],
@@ -23,7 +24,11 @@ const missrose = {
         databases: ["postegres", "MySql", "oracle"],
     }
 };
-  </pre>
-</div>
-  <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Image Description" width="200" style="margin-left: 20px;">
+    </pre>
+  </div>
+
+  <div>
+    <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Image Description" width="200">
+  </div>
+
 </div>
