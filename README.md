@@ -28,5 +28,4 @@
   </div>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohid-dev&theme=calm&show_icons=true&count_private=true)
-![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
 
