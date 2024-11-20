@@ -11,7 +11,7 @@
 <div style="display: flex; align-items: flex-start; flex-wrap: nowrap;">
 
   <div style="flex: 1; margin-right: 10px;">
-    <pre style="background-color: #f6f8fa; padding: 10px; border-radius: 5px;">
+    <pre style="background-color: #f6f8fa; padding:5px; border-radius: 5px; width:30px">
 const missrose = {
     pronouns: "She" | "Her",
     askMeAbout: ["web dev", "tech", "crypto", "sport"],
