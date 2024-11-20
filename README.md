@@ -6,3 +6,4 @@
 - 📫 How to reach me on Telegram @crypto_mistress
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I sleep Naked 😄
+Hi there, thanks for stopping by, this is Miss Rose.
