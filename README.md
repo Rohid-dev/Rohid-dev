@@ -8,8 +8,7 @@
 - ⚡ Fun fact: I sleep Naked 😄
 #### Hi there, thanks for stopping by, this is Miss Rose.
 
-<div align="left">
-<pre style="display:inline">
+```
     const missrose = {
     pronouns: "She" | "Her",
     askMeAbout: ["web dev", "tech", "crypto", "sport"],
@@ -22,11 +21,10 @@
         databases: ["postegres", "MySql", "oracle"],
     }
     };
-</pre>
+    ```
   <div>
     <img  src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   </div>
-</div>
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohid-dev&theme=calm&show_icons=true&count_private=true)
 
