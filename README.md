@@ -28,7 +28,7 @@ const missrose = {
   </div>
 
   <div>
-    <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Image Description" width="200">
+    <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Image Description" width="50">
   </div>
 
 </div>
