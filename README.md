@@ -6,4 +6,17 @@
 - 📫 How to reach me on Telegram @crypto_mistress
 - 📫 How to reach me: ...
 - ⚡ Fun fact: I sleep Naked 😄
-### Hi there, thanks for stopping by, this is Miss Rose.
+# Hi there, thanks for stopping by, this is Miss Rose.
+
+```const missrose = {
+    pronouns: "She" | "Her",
+    askMeAbout: ["web dev", "tech", "crypto", "sport"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Solidity", "NodeJs", "PHP"],
+        databases: ["postegres", "MySql", "oracle"],
+    }
+};```
