@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I sleep Naked 😄
 #### Hi there, thanks for stopping by, this is Miss Rose.
 
-<div style="display: flex; align-items: flex-start; flex-wrap: nowrap;">
 
 <div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">const</span> <span class="pl-s1">missrose</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
     <span class="pl-c1">pronouns</span>: <span class="pl-s">"She"</span> <span class="pl-c1">|</span> <span class="pl-s">"Her"</span><span class="pl-kos">,</span>
@@ -47,4 +46,3 @@
     <img align="right" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   </div>
 
-</div>
