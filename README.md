@@ -9,7 +9,9 @@
 #### Hi there, thanks for stopping by, this is Miss Rose.
 
 <div style="display: flex; align-items: center;">
-```const missrose = {
+
+  <pre>
+const missrose = {
     pronouns: "She" | "Her",
     askMeAbout: ["web dev", "tech", "crypto", "sport"],
     technologies: {
@@ -21,6 +23,7 @@
         databases: ["postegres", "MySql", "oracle"],
     }
 };
-    <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Image Description" width="200"">
+  </pre>
+
+  <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Image Description" width="200" style="margin-left: 20px;">
 </div>
-```
