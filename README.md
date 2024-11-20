@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I sleep Naked 😄
 #### Hi there, thanks for stopping by, this is Miss Rose.
 
-<div align="right">
+<div align="left">
 <pre>
     const missrose = {
     pronouns: "She" | "Her",
