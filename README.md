@@ -21,5 +21,4 @@
         databases: ["postegres", "MySql", "oracle"],
     }
 };```
-    <img src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" alt="Image Description" width="200"">
 </div>
