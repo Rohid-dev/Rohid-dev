@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I sleep Naked 😄
 #### Hi there, thanks for stopping by, this is Miss Rose.
 
-
+<div>
 <div class="highlight highlight-source-js notranslate position-relative overflow-auto" dir="auto"><pre><span class="pl-k">const</span> <span class="pl-s1">missrose</span> <span class="pl-c1">=</span> <span class="pl-kos">{</span>
     <span class="pl-c1">pronouns</span>: <span class="pl-s">"She"</span> <span class="pl-c1">|</span> <span class="pl-s">"Her"</span><span class="pl-kos">,</span>
     <span class="pl-c1">askMeAbout</span>: <span class="pl-kos">[</span><span class="pl-s">"web dev"</span><span class="pl-kos">,</span> <span class="pl-s">"tech"</span><span class="pl-kos">,</span> <span class="pl-s">"crypto"</span><span class="pl-kos">,</span> <span class="pl-s">"sport"</span><span class="pl-kos">]</span><span class="pl-kos">,</span>
@@ -45,7 +45,8 @@
   <div>
     <img align="right" src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
   </div>
+  </div>
 
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeTemplar99&theme=calm&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohid-dev&theme=calm&show_icons=true&count_private=true)
 
