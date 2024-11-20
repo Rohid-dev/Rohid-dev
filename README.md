@@ -9,7 +9,7 @@
 #### Hi there, thanks for stopping by, this is Miss Rose.
 
 <div align="left">
-<pre>
+<pre style="display:inline">
     const missrose = {
     pronouns: "She" | "Her",
     askMeAbout: ["web dev", "tech", "crypto", "sport"],
